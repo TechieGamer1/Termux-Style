@@ -3,17 +3,11 @@
 Follow the steps below - 
 
 ```bash
-# go to home dir - 
-cd $HOME
-
-# clone this repository - 
+apt update && yes | apt upgrade && apt update && apt install git -y
 git clone https://github.com/TechieGamer1/Termux-Style
-
-# change to termux-style dir -
 cd Termux-Style
-
-# to install it, run -
 ./install
+termux-style
 
 # And Follow the steps, it'll be installed on your system.
 ```
