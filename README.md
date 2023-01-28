@@ -9,9 +9,6 @@ cd Termux-Style
 ./install
 termux-style
 
-# And Follow the steps, it'll be installed on your system.
-```
-
 ### Run
 
 Run `termux-style` & select the right option -
