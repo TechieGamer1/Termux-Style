@@ -8,7 +8,7 @@ git clone https://github.com/TechieGamer1/Termux-Style
 cd Termux-Style
 ./install
 termux-style
-
+'''
 ### Run
 
 Run `termux-style` & select the right option -
